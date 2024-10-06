@@ -20,4 +20,5 @@ I'm a passionate B.Tech Computer Science student specializing in AI/ML, currentl
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects. 😊
 
+Here are my holopin badges👇
 [![An image of @samim29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samim29)](https://holopin.io/@samim29)
