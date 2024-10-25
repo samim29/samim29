@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sk Samim Ali! 👋
 
-I'm a passionate B.Tech Computer Science student specializing in AI/ML, currently in my 3rd semester at Techno Engineering College, Banipur. I'm enthusiastic about developing innovative solutions to tackle real-world problems through technology. 
+I'm a passionate B.Tech Computer Science student specializing in AI/ML, currently in my 5th semester at Techno Engineering College, Banipur. I'm enthusiastic about developing innovative solutions to tackle real-world problems through technology. 
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Full Stack Web Development** along with **Machine Learning**.
