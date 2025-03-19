@@ -14,6 +14,7 @@ I'm a passionate B.Tech Computer Science student specializing in AI/ML, currentl
 - **Web Development**: HTML, CSS, JavaScript
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 - **Tools**: Visual Studio Code,Spyder, Git, GitHub
+- **Database**: MySQL,MongoDB
 ## 💬 Fun Facts
 - I love coding and solving complex problems.
 - In my free time, I enjoy reading about technology and practicing meditation.
