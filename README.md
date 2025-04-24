@@ -1,25 +1,30 @@
+🔹 I'm a B.Tech student specializing in CSE (AI & ML) under MAKAUT University, and I love combining artificial intelligence with fullstack web development to build meaningful tech solutions.
 
-# Hi there, I'm Sk Samim Ali! 👋
+One interesting fact about my journey – I built Wander Lust, a fullstack Airbnb-like web app, and earned a spot in the Top 25 at OpenSource Apertre 2.0, all while contributing actively to open source projects. These experiences helped me grow beyond tutorials and dive into real-world problem-solving with tech.
 
-I'm a passionate B.Tech Computer Science student specializing in AI/ML, currently in my 5th semester at Techno Engineering College, Banipur. I'm enthusiastic about developing innovative solutions to tackle real-world problems through technology. 
+🛠️ Tools & Technologies I work with:
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Full Stack Web Development** along with **Machine Learning**.
-- 💡 I aim to improve my skills in data science and participate in collaborative projects on platforms like **Kaggle**.
-- 🎓 I’m working on various college projects and research, including **lung cancer detection using logistic regression**.
-- 🌍 I believe in the power of technology to make a difference in the world.
+MERN Stack (MongoDB, Express, React, Node.js)
 
-## 🛠️ Skills
-- **Programming Languages**: Python, C, Java
-- **Web Development**: HTML, CSS, JavaScript
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-- **Tools**: Visual Studio Code,Spyder, Git, GitHub
-- **Database**: MySQL,MongoDB
-## 💬 Fun Facts
-- I love coding and solving complex problems.
-- In my free time, I enjoy reading about technology and practicing meditation.
+Python, Java, C
 
-Thanks for visiting my profile! Let's connect and collaborate on exciting projects. 😊
+SQL, MongoDB
+
+Git & GitHub
+
+💡 Domains of Interest:
+
+Fullstack Web Development
+
+AI/ML Projects
+
+Backend Systems
+
+Data Analytics
+
+EdTech & Healthcare Solutions
+
+🌱 I'm passionate about learning in public and contributing to the tech community through open source. I’m always exploring new ways to merge code with creativity to solve real problems. If you're building something cool or want to collaborate, let’s connect!
 
 Here are my holopin badges👇
 [![An image of @samim29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samim29)](https://holopin.io/@samim29)
