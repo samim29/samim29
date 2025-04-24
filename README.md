@@ -1,8 +1,8 @@
-🔹 I'm a B.Tech student specializing in CSE (AI & ML) under MAKAUT University, and I love combining artificial intelligence with fullstack web development to build meaningful tech solutions.
+🔹 I'm a<b> B.Tech student specializing in CSE (AI & ML) </b> under MAKAUT University, and <b> I love combining artificial intelligence with fullstack web development </b> to build meaningful tech solutions.
 
 One interesting fact about my journey – I built Wander Lust, a fullstack Airbnb-like web app, and earned a spot in the Top 25 at OpenSource Apertre 2.0, all while contributing actively to open source projects. These experiences helped me grow beyond tutorials and dive into real-world problem-solving with tech.
 
-🛠️ Tools & Technologies I work with:
+<b>🛠️ Tools & Technologies I work with:</b>
 
 MERN Stack (MongoDB, Express, React, Node.js)
 
@@ -12,7 +12,7 @@ SQL, MongoDB
 
 Git & GitHub
 
-💡 Domains of Interest:
+<b>💡 Domains of Interest:</b>
 
 Fullstack Web Development
 
